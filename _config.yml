@@ -22,7 +22,7 @@ repository               : "JacopoGavagni/jacopogavagni.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/foto-profilo-linkedln.png" 
+  avatar           : "foto-personal-web.png" 
   name             : "Jacopo Gavagni"
   pronouns         : # example: "she/her"  
   bio              : "Student of Management Engineering at University of Florence"
